@@ -1,0 +1,44 @@
+{
+  "links": [
+    {
+      "name": "Homepage",
+      "url": "https://diplomacyandstrife.com/home"
+    },
+    {
+      "name": "Register Page",
+      "url": "https://diplomacyandstrife.com/register"
+    },
+    {
+      "name": "Login Page",
+      "url": "https://diplomacyandstrife.com/login"
+    },
+    {
+      "name": "Rules Page",
+      "url": "https://diplomacyandstrife.com/rules"
+    },
+    {
+      "name": "Discord Invite",
+      "url": "https://discord.gg/zPBms9dJhK"
+    },
+    {
+      "name": "Wiki Page",
+      "url": "https://diplomacy-strife.fandom.com/wiki/Diplomacy_%26_Strife_Wiki"
+    },
+    {
+      "name": "Edit Page",
+      "url": "https://politicsandwar.com/nation/edit/"
+    },
+    {
+      "name": "Tools Page",
+      "url": "https://diplomacyandstrife.com/tools"
+    },
+    {
+      "name": "Board Page",
+      "url": "https://diplomacyandstrife.com/allianceboard"
+    },
+    {
+      "name": "Account Page",
+      "url": "https://diplomacyandstrife.com/account"
+    }
+  ]
+}

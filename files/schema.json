@@ -1,0 +1,16 @@
+{
+  "Endpoint": [
+    {
+      "name": "Nations",
+      "url": "http://diplomacyandstrifeapi.com/api//nation?APICode="
+    },
+    {
+      "name": "Nation",
+      "url": "http://diplomacyandstrifeapi.com/api//nation?APICode=&&NationId="
+    },
+    {
+      "name": "Alliances",
+      "url": "http://diplomacyandstrifeapi.com/api//alliance?APICode="
+    }
+  ]
+}
